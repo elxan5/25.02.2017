@@ -1,0 +1,217 @@
+#main{
+	height: 560px;
+	background: #f25222 url(../photos/map.png) no-repeat;
+}
+
+.tel>.col2{
+	margin-left: 30px;
+	padding: 15px 5px;
+.}
+.tel>.col2 i{
+	color:white;
+}
+.tel>.col2>span{
+	color:white;
+	font-size: 25px;
+	margin: 0px 15px;
+
+}
+.tel>.col2>select{
+	border: none;
+	height: 30px;
+	color: white;
+	background: transparent;
+	margin-right: 15px;
+	font-size: 25px;
+	font-weight: bold;
+
+}
+.bord{
+	height: 30px;
+	width: 1px;
+	border: 1px solid #fff;
+}
+.menu>.col2{
+padding: 15px 0px;
+}
+.menu>.col2:first-child{
+margin-left: 175px;
+
+}
+.menu>.col2>p{
+color:white;
+font-size: 12px;
+font-weight: bold;
+line-height: 16px;
+float: left;
+
+}
+.menu>.col2>span{
+font-size: 35px;
+font-weight: bold;
+color:white;
+margin-left: 10px;
+
+}
+.search>.col2:hover{
+background: #f0b204;
+}
+.search>.col2{
+	padding:23px 20px; 
+	background: #fabb22;
+	border-radius: 3px;
+	font-weight: bold;
+}
+.search>.col2>p{
+color:black !important;
+}
+.document>.row{
+	margin:150px 0;
+}
+.document>.row>.col7{
+	padding: 29px 0;
+}
+.document>.row>.col7>h1{
+	font-weight: bold;
+	color: white;
+	font-size: 30px;
+
+}
+.document>.row>.col7>p{
+line-height: 33px;
+color:#fde2d6;
+}
+.color{
+	color: #fbc222;
+}
+.document>.row>.col5{
+	display: flex;
+	justify-content: flex-end;
+}
+.document>.row>.col5>div{
+	height: 250px;
+	width: 350px;
+	
+
+	background: #ffffff;
+}
+.document>.row>.col5>div>p{
+	color: #6b6b6b;
+	margin:5px;
+	font-size: 16px;
+}
+.document>.row>.col5>div>select{
+	padding: 15px 100px;
+	margin:10px 15px;
+	border: transparent;
+	border-bottom: 1px solid #DDD;
+}
+.document>.row>.col5>div>h1{
+text-align: center;
+font-weight: bold;
+font-size: 16px;
+padding:15px 0;
+}
+.document>.row>.col5>div>input{
+	background: #fabb22;
+	border-radius: 5px ;
+	border: transparent;
+    margin-left: 15px;
+	padding: 25px 142px;
+}
+.document>.row>.col5>div>input:hover{
+background: #f0b204;
+}
+#content>.col12>img{
+	vertical-align: middle;
+}
+
+#content>.col12>h1{
+	text-align: center;
+	line-height: bolder;
+	font-size: 25px;
+}
+
+#content>.row>.col3{
+	padding: 20px 30px;
+	box-shadow:0px 0px 10px 0px #ddd ;
+}
+#content>.row>.col3>span{
+
+font-size: 20px;
+}
+
+#content>.row>.col3>span:last-child{
+margin-left: 40px;
+color:#847d7d;
+}
+
+.myIcon{
+	color:#847d7d;
+   
+}
+content>.row{
+margin-top:20px;
+margin-right: 10px;
+
+}
+#content>.col12>input{
+margin:10px 43%;
+background: transparent;
+border: 1px solid #f25222;
+padding: 12px 45px;
+border-radius: 5px;
+
+}
+#content>.col12>input:hover{
+	background: #f25222;
+}
+#info>.row{
+	margin: 80px 0;
+}
+
+#info>.row>.col4>.col2{
+	position: relative;
+    top:0;
+    left:38%;
+    margin-bottom: 45px;
+}
+
+
+#info>.row>.col4>.col3{
+position: relative;
+top:0;
+left:38%;
+margin-bottom: 35px;}
+#info>.row>.col4>p{
+font-size: 16px;
+color: #7f7e7e;
+float: left;
+line-height: 20px;
+font-weight: bold;
+}
+.iconMy{
+	margin:0 45%;
+	color:#f25222;
+    margin-bottom: 15px;
+}
+#footer{
+	border-top: 1px solid #ddd;
+}
+#footer>.row{
+	padding: 80px 25px;
+}
+#footer>.row>.col1>span{
+	font-size: 40px;
+
+}
+#footer>.row>.col2>span{
+ 	font-size: 21px;
+ color:#666;
+}
+
+.footright{
+	position: relative;
+	top: 30px;
+	left: 500px;
+}
